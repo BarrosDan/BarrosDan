@@ -32,11 +32,11 @@ Hello, I'm Daniel Barros!
     	<a href="https://spring.io/"><img alt="SPRING" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
     	<a href=""><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
     	<a href=""><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-    	<a href="https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
+    	<a href="https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 	<a href= "https://www.oracle.com/br/servers/"><img alt= "Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-    	<a href="https://developer.android.com/studio"><img alt="ANDROID" src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=plastic&logo=android-studio&logoColor=white"></a>
+    	<a href="https://developer.android.com/studio"><img alt="ANDROID" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
 	<a href="https://www.docker.com/"><img alt="DOCKER" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
-	<a href="https://www.postman.com/"><img alt="POSTMAN" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
+	<a href="https://www.postman.com/"><img alt="POSTMAN" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 	<a href= "https://dotnet.microsoft.com/pt-br/platform/customers"><img alt= ".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
 	<a href= "https://insomnia.rest/"><img alt= "Insomnia" src= "https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"></a>
 	<a href= "https://kotlinlang.org/"><img alt= "Kotlin" src= "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
