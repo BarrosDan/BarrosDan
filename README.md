@@ -30,7 +30,7 @@ Hello, I'm Daniel Barros!
 <p>
     	<a href="https://www.java.com/"><img alt="JAVA" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
     	<a href="https://spring.io/"><img alt="SPRING" src="https://img.shields.io/badge/Spring%20Framework-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
-    	<a href=""><img alt="CSS" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
+    	<a href=""><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
     	<a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
     	<a href="https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
 	<a href= "https://www.oracle.com/br/servers/"><img alt= "Oracle" src="https://img.shields.io/badge/-Oracle-C0C0C0?logo=Oracle&logoColor=F80000">
