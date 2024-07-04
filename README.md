@@ -11,7 +11,6 @@ Hello, I'm Daniel Barros!
 💻 I am mainly a Backend Developer
 📚 I am studying Systems Analysis and Development at FIAP 
 📝 I have a strong interest in Software Engineering 
-🌱 Learning about efficient designs for scalable systems
 🌟 Main language: Java 😁
 😃 I look forward to collaborate on impactful projects
 </pre>
